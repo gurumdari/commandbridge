@@ -1,0 +1,3 @@
+# Deprecated
+
+As the javax.json library (JSON Processing API) was decided not to support as an internal module in Java SE, we decided to remove the distinction to display the Java version, Bridge/Java8 compiled with Java 8 and using Gson as an external module for JSON conversion has been deprecated. Bridge/Java, which decided not to display the Java version, was replaced with the javax.json library (JSON Processing API), because Gson does not correctly recognize type in serialized Java value object using Lambda expressions, etc.
