@@ -9,7 +9,7 @@ CommandBridge는 Command-line Interface를 통해 Local 환경에서 이기종 �
 ### 사용 가이드
 CommandBridge의 자세한 사용법은 아래의 CommandBridge 공식 사이트를 참조하기 바란다.
 
-[http://commandbridge.org](http://commandbridge.org/)
+[https://commandbridge.org](https://commandbridge.org/)
 
 ### 지원 언어
 현재, Java, jjs, Node.js, PHP, Python, R, Ruby 언어를 지원하는 모듈을 제공하고 있다.
@@ -20,4 +20,4 @@ CommandBridge는 무료 소프트웨어 아키텍처이다! 만약 CommandBridge
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U9DP9TFDL5VDC)
 
 ### 다른 언어로 읽기
-[영어 (English)](https://github.com/gurumdari/commandbridge/blob/master/README.md)
+[영어 (English)](https://github.com/gurumdari/commandbridge)
