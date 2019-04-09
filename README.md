@@ -9,7 +9,7 @@ Because all programming languages have advantages and disadvantages, it is somet
 ### Guide
 To know more details, you can visit the official CommandBridge site below:
 
-[http://commandbridge.org](http://commandbridge.org/)
+[https://commandbridge.org](https://commandbridge.org/)
 
 ### Support Languages
 Currently, CommandBridge provides modules that support Java, jjs, Node.js, PHP, Python, R, and Ruby languages.
