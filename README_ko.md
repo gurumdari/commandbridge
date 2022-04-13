@@ -14,6 +14,8 @@ CommandBridge의 자세한 사용법은 아래의 CommandBridge 공식 사이트
 ### 지원 언어
 현재, Java, jjs, Node.js, PHP, Python, R, Ruby 언어를 지원하는 모듈을 제공하고 있다.
 
+RemoteBridge는 JavaEE, JakartaEE, PHP, Python 환경을 지원한다.
+
 ### 기부 Donate
 CommandBridge는 무료 소프트웨어 아키텍처이다! 만약 CommandBridge를 사용하면서 유용하다고 생각했다면, 자발적인 기부를 부탁드린다. 금액에 상관없이 참여한 기부금에 대해 보다 나은 소프트웨어 개발로 보답하겠다. 아울러 우리 나라에서도 공개 소프트웨어가 활성화되고, 기부문화도 활성화되는 계기가 되었으면 한다.
 

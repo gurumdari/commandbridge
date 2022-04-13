@@ -14,6 +14,8 @@ To know more details, you can visit the official CommandBridge site below:
 ### Support Languages
 Currently, CommandBridge provides modules that support Java, jjs, Node.js, PHP, Python, R, and Ruby languages.
 
+RemoteBridge supports JavaEE, JakartaEE, PHP, and Python environments.
+
 ### Donation
 CommandBridge is a software architecture. If you use this software architecture, and take some benefits, please donate for this software architecture. Through your donation, this software architecture will be better. Also, I hope to see more free software and donation culture.
 
